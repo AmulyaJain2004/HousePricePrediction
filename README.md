@@ -157,10 +157,6 @@ This analysis provides valuable insights for:
 - Geographic clustering analysis
 - Integration of external economic indicators
 
-## 👨‍💻 Author
-
-Data Science Project - Real Estate Price Prediction Analysis
-
 ---
 
 _This project demonstrates comprehensive data science workflow from data exploration to model development, providing actionable insights for real estate market analysis._
